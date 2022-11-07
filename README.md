@@ -1,6 +1,4 @@
-# DMNDTI
-
-A Duplex Multi-view Network-based Method for Drug-target Interaction Prediction
+# DMNDTI：A Duplex Multi-view Network-based Method for Drug-target Interaction Prediction
 ### Quick start
 We provide an example script to run experiments on our dataset: 
 
